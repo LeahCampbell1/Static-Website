@@ -12,7 +12,7 @@ This project is a website about Cuban Salsa dancing. It provides information abo
 ## Project Structure
 
 ```text
-Cuban-Salsa-Website/
+Static-Website/
 │
 ├── index.html
 ├── style.css
